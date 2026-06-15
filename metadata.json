@@ -1,0 +1,6 @@
+{
+  "name": "Exam Time Keeper",
+  "description": "A projection clock for exam rooms with remote control support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
